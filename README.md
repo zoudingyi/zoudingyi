@@ -29,17 +29,21 @@ Here are some ideas to get you started:
 
 I graduated from Sichuan University. 🏫
 
-Major in Software Engineering. 👨‍💻
+I like to do interesting projects.🕶️
 
-I love open source spirit. ❤️
+I love riding motorcycles. 🏍️
 
-Hope to make more friends in open source projects. 💭
+Nice to meet you. 🤟
+
+
+
+
 
 ## Orientation 🎯
 
-I love coding. 💗
-
-I love Front End technologys. 💖
+I love coding and open source. ❤️
+ 
+Hope to make more friends in open source projects. 💖
 
 <p>
 
