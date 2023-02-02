@@ -75,9 +75,7 @@ Hope to make more friends in open source projects. 💖
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoudingyi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  -->
  
- <p>
- ![card](https://github.com/zoudingyi/netease-cloud-music-card/blob/main/card.svg)
- </p>
+![card](https://github.com/zoudingyi/netease-cloud-music-card/blob/main/card.svg)
 
 </div>
 
