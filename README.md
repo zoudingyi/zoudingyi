@@ -76,6 +76,6 @@ Hope to make more friends in open source projects. 💖
  -->
  
 ![card](https://github.com/zoudingyi/netease-cloud-music-card/blob/main/card.svg)
-
+ 
 </div>
 
