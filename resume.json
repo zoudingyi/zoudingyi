@@ -1,0 +1,122 @@
+{
+  "titleNameMap": {
+    "educationList": "教育背景",
+    "workExpList": "工作经历",
+    "projectList": "项目经历",
+    "skillList": "个人技能",
+    "awardList": "更多信息",
+    "workList": "个人作品",
+    "aboutme": "自我介绍"
+  },
+  "avatar": { "src": "", "hidden": false },
+  "profile": {
+    "name": "邹定一",
+    "email": "18483641399@163.com",
+    "mobile": "18483641399",
+    "github": "https://github.com/zoudingyi",
+    "zhihu": "",
+    "workExpYear": "7年",
+    "workPlace": "四川成都",
+    "positionTitle": "前端工程师"
+  },
+  "educationList": [
+    {
+      "edu_time": ["2019.09.01", "2022.01.08"],
+      "school": "四川大学",
+      "major": "计算机科学与技术",
+      "academic_degree": "本科",
+      "dataIndex": 0
+    },
+    {
+      "edu_time": ["2014.09.01", "2017.06.20"],
+      "school": "四川托普信息技术职业学院",
+      "major": "软件开发",
+      "dataIndex": 1
+    }
+  ],
+  "awardList": [
+    { "award_info": "计算机二级 NCRE", "award_time": "2017", "dataIndex": 0 }
+  ],
+  "workExpList": [
+    {
+      "company_name": "成都直新科技有限公司",
+      "department_name": "研发部",
+      "work_time": ["2021.03", "2024.05"],
+      "work_desc": "【公司成立于2019年，是一个专注于海外市场营销的团队。公司成立前已有多年海外流量资源的积累，公司有专业的广告技术，精准的广告数据，充足的 FaceBook & Google 广告投放资源，原生渠道资源，以及自研的建站SAAS系统，支付系统，供应链系统，客服系统】\n1. 担任公司业务系统前端开发、管理与重构的工作\n2. 负责公司系统模板产品的架构、以及系统组件库和脚手架的开发\n3. 参与前端技术选型、技术支持、以及技术规范与文档的建设"
+    },
+    {
+      "company_name": "成都区融未来网络科技有限公司",
+      "department_name": "迪富项目组",
+      "work_time": ["2020.03", "2021.02"],
+      "work_desc": "【公司专注于做数字货币交易平台，买卖交易BTC/ETH/HT 等数字货币，投资现货和合约市场，或质押代币】\n参与 difu 项目更新迭代，维护与重构后台管理系统。使用 React 或 Vue 参与开发多类产品，Candlestick Chart （K线图） 数据可视化。"
+    },
+    {
+      "company_name": "四川萃菁池科技有限公司",
+      "department_name": "研发部",
+      "work_time": ["2018.03", "2020.03"],
+      "work_desc": "【2015年成立，前身为“西南财经大学天府学院”校企，2017年进入智慧校园行业，为各大高校做信息化建设；2019年公司从校企脱离，独立为“四川易迪优科技公司”，目前客户已遍布全国】\n1. 参与 《TFinfo》 项目中多个微服务前端的 H5 页面和管理端页面开发，2017年被四川科教频道报道，现为天府学院官方APP\n2. 参与《移动智慧校园》《校园迎新》项目并负责前端开发，系统已在全国多所高校稳定运行"
+    }
+  ],
+  "skillList": [
+    {
+      "skill_name": "微前端",
+      "skill_desc": "微前端开发经验",
+      "skill_level": 60
+    },
+    {
+      "skill_name": "Node.js",
+      "skill_level": 60,
+      "skill_desc": "Node.js 服务端开发经验"
+    },
+    {
+      "skill_name": "服务端渲染",
+      "skill_level": 60,
+      "skill_desc": "服务端渲染(SSR)开发经验"
+    },
+    {
+      "skill_name": " H5 开发",
+      "skill_desc": "移动端 H5、微信小程序开发经验",
+      "skill_level": 60
+    },
+    {
+      "skill_name": "React / 前端工程化",
+      "skill_level": 75,
+      "skill_desc": "大型前端项目经验以及组件库开发经验"
+    }
+  ],
+  "projectList": [
+    {
+      "project_name": "数据作战室",
+      "project_role": "前端负责人",
+      "project_time": "2019.04 - 2020.06",
+      "project_desc": "面向总裁和高管以及决策 BI 的数字化经营决策和管理协同产品。提供一站式的数据化经营决策和管理协同功能，让高管高效获取决策信息，并提升管理效率。",
+      "project_content": "1. 项目从0到1的框架设计和开发 2. 产品体验精雕细琢的打磨 3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率"
+    },
+    {
+      "project_name": "DeepInsight",
+      "project_role": "可视分析负责人",
+      "project_time": "2018.07 - 2019.04 / 2020.07 - 至今",
+      "project_desc": "DeepInsight 是蚂蚁集团自主研发的自助式 BI 数据洞察分析平台，面向企业分析人员、业务人员和开发人员，帮助蚂蚁集团实现精细化运营。",
+      "project_content": "BI 平台工具核心部分是报表制作，也就是通过数据连接、可视化配置形成图表物料之后，通过拖拽方式进行页面编排，最终形成报表页面进行发布的过程。\n1. 主导开放能力建设，拉通产品、设计建设和扩展可视化图形，提升丰富度\n2. 产品体验优化，尤其是对 ECharts 的体验顽疾进行攻克\n3. 主导可视化能力建设：业务标准化图表库建设(通用组件设计和开发经验丰富)、促进数据分析能力增强等可视化一体化建设"
+    },
+    {
+      "project_name": "G2、G2Plot",
+      "project_role": "核心开发者",
+      "project_time": "2019 - 至今",
+      "project_desc": "G2 是基于图形语法理论的可视化渲染引擎，G2Plot 是在 G2 基础上封装的开箱即用的统计可视化图表库",
+      "project_content": "AntV 可视化建设，赋能整个蚂蚁和阿里集团统计可视化分析相关业务。负责 AntV 系列: AntV 官网、G 渲染引擎、 G2、G2Plot、ThemeSet 主题构建器等开源项目的研发工作。"
+    }
+  ],
+  "workList": [
+    {
+      "work_name": "管理系统模板",
+      "work_desc": "🎉 Vue3 & Vite、Element Plus 的前后端分离权限管理系统 （文档完善中）",
+      "visit_link": "https://zoudingyi.github.io/manage-system-docs/",
+      "dataIndex": 0
+    }
+  ],
+  "aboutme": {
+    "aboutme_desc": "🌱 充满热情且结果导向的前驱型前端工程师，拥有多年大型复杂产品的开发经验。掌握现代前端框架如 React 和 Vue，并熟练运用 Webpack、Vite 等构建工具。熟练掌握 TypeScript 开发语言并具备一定的 Node.js 开发能力。熟悉 Linux 系统操作及运行维护，熟悉持续集成和持续部署（CI/CD）流程。具备从 0 到 1 的项目开发经验，能够独立完成项目前端的架构设计和实现。\n    "
+  },
+  "theme": { "color": "#2f5785", "tagColor": "#8bc34a" }
+}
