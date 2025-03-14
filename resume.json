@@ -93,6 +93,13 @@
       "project_content": "负责项目的开发及迭代，根据公司需求提供个性化功能定制。\n所用技术：使用Git进行版本控制，技术栈包含界面编写（Next.js、TypeScript、Next.js App Router、Zustand），网络交互（Axios + SWR），编译构建（Next.js Compiler），样式处理（Sass），包管理（Yarn）"
     },
     {
+      "project_name": "系统模板与通用组件开发",
+      "project_role": "独立开发者",
+      "project_time": "2022.03 - 2024.02",
+      "project_desc": "负责设计并开发公司内部系统的前端模板和可复用组件库，提升开发效率和代码一致性。组件库被广泛应用于多个内部系统，代码复用率显著提高，减少了重复开发工作量。通过标准化设计，确保了不同系统间的一致性，提升了开发体验。",
+      "project_content": "负责整个系统模板架构，新系统模板基于 Vue3 + Pinia + Vue Router 开发，使用 Element Plus UI 组件统一整体外观风格，用 Sass 做样式处理，Axios 做网络交互，最后使用 Vite 编译构建。采用模块化设计，支持按需加载，自动导入，减少打包体积，结合 ESLint 和 Prettier 统一代码风格。通用组件（表单、表格等）基于 Element Plus 组件二次封装成 JSON 配置式低代码组件，并产出整个系统模板与组件的使用文档方便团队成员查阅和使用。"
+    },
+    {
 
       "project_name": "迪富项目",
       "project_role": "核心开发者",
